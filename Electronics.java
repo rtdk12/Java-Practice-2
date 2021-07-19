@@ -1,5 +1,4 @@
-//package Product1;
-//  gi comment lang nako ang package maam para mu run sa imong IDE
+
 public class Electronics extends Product{ 
 	
 	
